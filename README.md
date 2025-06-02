@@ -189,21 +189,7 @@ AWS Core Services:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkata0714&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkata0714&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkata0714&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=venkata0714&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
