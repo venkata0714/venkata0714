@@ -26,7 +26,7 @@ I'm a **results-driven AWS Cloud Engineer** with **4+ years** of hands-on experi
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/AWS-Projects-orange?style=flat-square&logo=amazon-aws&logoColor=white"/><br/>
-<b>15+ Projects</b>
+<b>5+ Projects</b>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Certifications-3-blue?style=flat-square&logo=certificate&logoColor=white"/><br/>
