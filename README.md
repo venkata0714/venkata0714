@@ -221,11 +221,7 @@ AWS Core Services:
 
 ---
 
-## 📫 Let's Connect!
-
 <div align="center">
-
-### 🚀 Ready to discuss cloud architecture, DevOps strategies, or exciting opportunities?
 
 <table>
 <tr>
@@ -247,25 +243,12 @@ venkatayasam0714@gmail.com
 </tr>
 </table>
 
-### 🔗 Professional Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-yasam)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkata0714)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://venkata0714.github.io)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
-
-</div>
 
 ---
 
 <div align="center">
 
-### 💡 *"Building tomorrow's cloud infrastructure today"*
-
 ![Visitor Count](https://profile-counter.glitch.me/venkata0714/count.svg)
-
-**⭐ If you find my work interesting, please consider giving my repositories a star!**
-
 </div>
 
 
