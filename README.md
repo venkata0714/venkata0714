@@ -1,4 +1,4 @@
-# 🚀 Venkata Srimannarayana Yasam - Cloud Engineer Portfolio
+# Venkata Srimannarayana Yasam 
 
 <div align="center">
 
@@ -206,38 +206,6 @@ AWS Core Services:
 [![trophy](https://github-profile-trophy.vercel.app/?username=venkata0714&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
-## 💼 Professional Experience Highlights
-
-### 🎯 Key Achievements
-- ✅ **Reduced infrastructure costs by 35%** through strategic resource optimization and reserved instances
-- ✅ **Improved deployment speed by 60%** with automated CI/CD pipelines and containerization
-- ✅ **Achieved 99.9% uptime** across all managed cloud environments
-- ✅ **Automated 80% of repetitive tasks** using Infrastructure as Code and scripting
-- ✅ **Enhanced security posture** with comprehensive IAM policies and compliance frameworks
-
-### 🔧 Core Competencies
-```yaml
-Cloud Architecture:
-  - Multi-tier application design
-  - Microservices architecture
-  - Serverless computing patterns
-  - High availability & disaster recovery
-
-DevOps Engineering:
-  - CI/CD pipeline automation
-  - Container orchestration
-  - Infrastructure as Code
-  - Monitoring & observability
-
-Security & Compliance:
-  - IAM policy management
-  - Network security design
-  - Compliance frameworks
-  - Vulnerability assessment
-```
 
 ---
 
