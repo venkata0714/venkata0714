@@ -163,7 +163,7 @@ AWS Core Services:
 
 ### 🎓 Education
 ```
-🎓 Master of Science - Information Technology (Cloud Computing Focus)
+🎓 Master of Science - Computer Science (Cloud Computing Focus)
    📍 Kennesaw State University | Jan 2024 - May 2025 | STEM Designated
    📚 Coursework: Cloud Infrastructure, DevOps Automation, Cloud Security, 
        Network Architecture, Infrastructure as Code, AWS Solutions Design
