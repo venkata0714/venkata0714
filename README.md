@@ -50,12 +50,12 @@ I'm a **results-driven AWS Cloud Engineer** with **4+ years** of hands-on experi
 ### ☁️ Cloud Platforms & Services
 ```yaml
 AWS Core Services:
-  Compute: [EC2, Lambda, ECS Fargate, Auto Scaling]
-  Storage: [S3, EFS, EBS]
-  Database: [RDS, DynamoDB]
-  Networking: [VPC, CloudFront, Route 53, API Gateway]
-  Security: [IAM, CloudTrail, GuardDuty, WAF]
-  DevOps: [CloudFormation, Systems Manager, CodePipeline]
+  Compute: [EC2, Lambda, ECS Fargate, Auto Scaling, Elastic Beanstalk]
+  Storage: [S3, EFS, EBS,]
+  Database: [RDS, DynamoDB, Aurora, ElasticCache, redshit]
+  Networking: [VPC, CloudFront, Route 53, API Gateway, Elastic Load Balancer (ALB/NLB), ]
+  Security: [IAM, CloudTrail, KMS, Secrets Manager]
+  DevOps: [CloudFormation, Systems Manager, CodePipeline,AWS CodeBuild, AWS CodeDeploy, AWS CodeCommit Amazon CloudWatch]
 ```
 
 ### 🔧 DevOps & Automation
