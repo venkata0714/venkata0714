@@ -1,8 +1,7 @@
-<h1 align="center">
-  <span style="color:#f39c12;">Venkata</span>
-  <span style="color:#27ae60;">Srimannarayana</span>
-  <span style="color:#2980b9;">Yasam</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=800&lines=Venkata+Srimannarayana+Yasam" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Certified+Cloud+Professional;AWS+%7C+AZURE+%7C+GCP" alt="Typing SVG" />
