@@ -1,4 +1,9 @@
 # Venkata Srimannarayana Yasam 
+<h1 align="center">
+  <span style="color:#f39c12;">Venkata</span>
+  <span style="color:#27ae60;">Srimannarayana</span>
+  <span style="color:#2980b9;">Yasam</span>
+</h1>
 
 <div align="center">
 
