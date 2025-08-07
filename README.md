@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Venkata%20Srimannarayana%20Yasam-800080?style=for-the-badge&logoColor=white" alt="Venkata Srimannarayana Yasam" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=1&pause=1000&colo
 
 
 <p align="center">
