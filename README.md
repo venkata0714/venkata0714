@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=   Certified+Cloud+Professional+|+AWS+|+AZURE+|+GCP   " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Certified+Cloud+Professional+%7C+AWS+%7C+AZURE+%7C+GCP" alt="Typing SVG" />
 </p>
 
 
