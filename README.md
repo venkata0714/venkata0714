@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=800080&center=true&vCenter=true&width=800&lines=Venkata+Srimannarayana+Yasam" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Venkata%20Srimannarayana%20Yasam-800080?style=for-the-badge&logoColor=white" alt="Venkata Srimannarayana Yasam" />
 </p>
 
 
