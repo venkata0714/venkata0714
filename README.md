@@ -1,6 +1,7 @@
-<h1 align="center">
-  <strong><font color="#800080">Venkata Srimannarayana Yasam</font></strong>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=1&pause=1000&color=800080&center=true&vCenter=true&width=1000&lines=Venkata+Srimannarayana+Yasam" alt="Name Banner" />
+</p>
+
 
 
 <p align="center">
