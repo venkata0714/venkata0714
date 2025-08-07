@@ -1,4 +1,3 @@
-# Venkata Srimannarayana Yasam 
 <h1 align="center">
   <span style="color:#f39c12;">Venkata</span>
   <span style="color:#27ae60;">Srimannarayana</span>
