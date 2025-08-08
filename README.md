@@ -221,6 +221,27 @@ AWS Core Services:
 
 <div align="center">
 
+<div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); color: white; padding: 20px; border-radius: 10px;">
+  <table align="center">
+    <thead>
+      <tr>
+        <th>🎯 <strong>Innovation</strong></th>
+        <th>🔧 <strong>Automation</strong></th>
+        <th>🛡️ <strong>Security</strong></th>
+        <th>📊 <strong>Optimization</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Implementing cutting-edge technologies like zK-SNARKs and AI/ML</td>
+        <td>Building CI/CD pipelines that reduce deployment time by 60%</td>
+        <td>Designing secure architectures with zero security incidents</td>
+        <td>Achieving 35% cost reduction through strategic optimization</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <table>
 <tr>
 <td align="center">
