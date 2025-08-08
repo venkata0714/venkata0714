@@ -206,7 +206,7 @@ AWS Core Services:
 </div>
 
 ---
-
+<!--
 ## 🌟 What Sets Me Apart
 
 <div align="center">
@@ -218,6 +218,7 @@ AWS Core Services:
 </div>
 
 ---
+  -->
 
 <div align="center">
 
