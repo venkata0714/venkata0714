@@ -248,12 +248,12 @@ AWS Core Services:
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/marker.png"/><br/>
 <b>📍 Location</b><br/>
-Atlanta, GA 30080
+Seattle, WA 98101
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/phone.png"/><br/>
 <b>📞 Phone</b><br/>
-(770) 657-8278
+(470) 338-3979
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/email.png"/><br/>
