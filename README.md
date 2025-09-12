@@ -26,7 +26,7 @@
 
 > *"Architecting scalable cloud solutions with passion for automation and innovation"*
 
-I'm a **results-driven AWS Cloud Engineer** with **2 years** of hands-on experience in designing, deploying, and managing secure, scalable cloud infrastructure. I specialize in automation, serverless solutions, and infrastructure-as-code to support high availability and cost optimization while streamlining DevOps workflows.
+I'm a **results-driven AWS Cloud Engineer** with **1+ years** of hands-on experience in designing, deploying, and managing secure, scalable cloud infrastructure. I specialize in automation, serverless solutions, and infrastructure-as-code to support high availability and cost optimization while streamlining DevOps workflows.
 
 ### 🎯 Quick Stats
 
